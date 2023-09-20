@@ -1,1 +1,2 @@
-alert("deu certo!"); 
+alert("deu certo!");
+prompt("Acreditaria que daria cert?"); 
